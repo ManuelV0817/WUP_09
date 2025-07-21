@@ -101,7 +101,7 @@ summary.lm(PIKE2)
 ```
 
 ### Best Two regressor model
-The best regression model is l1-l2-l3-h-w, everything together, the best two are length 1- length 3. adjusted r squared is 0.9794.
+The best regression model is l1-l2-l3-h-w, everything together adjusted r squared is 0.9794, the best two are length 1- length 3 with adjusted r squared 0.9649.
 ## Roach
 
 ### Best Models

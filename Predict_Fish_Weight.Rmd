@@ -135,4 +135,4 @@ The best two regression model and the best overall is length 3 and width and the
 
 ## Final Summary Statements
 
-
+We learned how to make multiple regression models manually and automated . This showed us how to find the best  models for different situations. 

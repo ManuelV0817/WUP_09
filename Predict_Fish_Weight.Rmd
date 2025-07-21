@@ -76,7 +76,7 @@ summary.lm(MODL2)
 
 ### Best Two regressor model
 
-For perch the best two regression model is height and width being the best overall, the adjusted r-squared is 0.94.
+
 ## Pike
 
 ### Best Models
